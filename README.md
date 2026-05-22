@@ -140,8 +140,6 @@ Prettier + ESLint 규칙을 정비하여 코드 스타일을 통일했습니다.
 
 Axios interceptor 기반 API 모듈 구성
 
-적용 내용:
-
 * 인증 처리 통합
 * 공통 에러 핸들링
 * 중복 코드 제거
@@ -151,8 +149,6 @@ Axios interceptor 기반 API 모듈 구성
 ### 데이터 캐싱 최적화
 
 TanStack Query의 Query Key를 도메인 단위로 설계
-
-적용 내용:
 
 * staleTime 전략
 * invalidation 관리
